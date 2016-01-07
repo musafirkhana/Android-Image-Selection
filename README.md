@@ -1,11 +1,9 @@
 # Android-Image-Selection
-# Android-Image-Selection
-
-### HOME
+## HOME
 ![Example Image Home][1]
-### IMAGE GRID
+## IMAGE GRID
 ![Example Image Grid][2]
-### FULLSCREEN IMAGE
+## FULLSCREEN IMAGE
 ![Example Detail][3]
 
 [1]: http://i.imgur.com/OpguHF0.png
