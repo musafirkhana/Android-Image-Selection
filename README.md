@@ -1,4 +1,4 @@
-# Android-Image-Selection
+# Android FB like Image Selection
 ## HOME
 ![Example Image Home][1]
 ## IMAGE GRID
