@@ -24,6 +24,7 @@ public class FullImageViewActivity extends Activity {
 		context = this;
 		imageUtils = new ImageUtils(this);
 		Intent i = getIntent();
+
 		int position = i.getIntExtra("position", 0);
 		ViewPager viewPager = (ViewPager) findViewById(R.id.view_pager);
 		FullScreenImageAdapter adapter = new FullScreenImageAdapter(FullImageViewActivity.this, imageUtils.getFilePaths());
