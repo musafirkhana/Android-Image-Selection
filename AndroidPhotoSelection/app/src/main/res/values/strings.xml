@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">AndroidPhotoSelection</string>
     <string name="action_settings">Settings</string>
+    <string name="gallery">GALLERY</string>
+    <string name="camera">CAMERA</string>
+    <string name="copyright">Copyright © Vaiuu Group BD</string>
 </resources>
