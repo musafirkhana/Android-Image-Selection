@@ -2,9 +2,9 @@ package com.vaiuu.androidphotoselection.util;
 
 import android.graphics.Bitmap;
 
-/**
+/**************************
  * Created by Musafir Ali.
- */
+ *************/
 public class BitmapUtils {
 
     public static Bitmap resizeBitmap(final Bitmap bitmap, final int requestedWidth, final int requestedHeight) {

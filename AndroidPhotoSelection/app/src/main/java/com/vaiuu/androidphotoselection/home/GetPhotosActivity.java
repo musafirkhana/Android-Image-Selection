@@ -19,6 +19,7 @@ import android.widget.Toast;
 import com.vaiuu.androidphotoselection.R;
 import com.vaiuu.androidphotoselection.util.AppConstant;
 import com.vaiuu.androidphotoselection.util.BitmapUtils;
+import com.vaiuu.androidphotoselection.util.GetBitmapFromUriTask;
 import com.vaiuu.androidphotoselection.util.ImageFilePath;
 import com.vaiuu.androidphotoselection.util.Tools;
 

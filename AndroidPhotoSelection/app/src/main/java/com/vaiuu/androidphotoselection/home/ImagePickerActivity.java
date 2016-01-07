@@ -49,8 +49,7 @@ import java.util.Locale;
 public class ImagePickerActivity extends Activity implements AdapterView.OnItemClickListener {
 
 	static final String TAG = "PHOTO_PICKER";
-	private static final int REQUEST_CODE_TAKEN_PHOTO_CAMERA = 0x01;
-	
+
 	Adapter adapter;
 	DisplayImageOptions options;
 	ArrayList<Uri> selected = new ArrayList<Uri>();

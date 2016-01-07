@@ -1,4 +1,4 @@
-package com.vaiuu.androidphotoselection.home;
+package com.vaiuu.androidphotoselection.util;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -9,9 +9,9 @@ import android.os.ParcelFileDescriptor;
 
 import java.io.FileDescriptor;
 
-/**
+/*************************
  * Created by Musafir Ali.
- */
+ *************/
 public class GetBitmapFromUriTask extends AsyncTask<Void, Void, Bitmap> {
     Activity mContext;
 

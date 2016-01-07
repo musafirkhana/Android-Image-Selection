@@ -2,9 +2,9 @@ package com.vaiuu.androidphotoselection.util;
 
 import android.content.Context;
 
-/**
+/**************************
  * Created by Musafir Ali.
- */
+ ************/
 public class DisplayUtils {
 
     public static int getScreenWidth(final Context context) {
